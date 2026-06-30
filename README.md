@@ -23,11 +23,11 @@ Professional company profiles and corporate presentations designed for engineeri
 
 ## 📷 Preview
 
-![Cover](images/cover.jpg)
+![Cover](images/profiel.png)
 
 ![Services](images/services.jpg)
 
-![Projects](images/profiel.png)
+![Projects](images/)
 
 ---
 
