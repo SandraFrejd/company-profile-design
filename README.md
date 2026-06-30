@@ -25,9 +25,9 @@ Professional company profiles and corporate presentations designed for engineeri
 
 ![Cover](images/profiel.png)
 
-![Services](images/services.jpg)
+![Services](images/bild1.png)
 
-![Projects](images/)
+![Projects](images/bild2a.png)
 
 ---
 
