@@ -1,17 +1,24 @@
-# company-profile-design
-Professional company profiles and corporate presentations designed for engineering companies.
+# Company Profile Design
+
+Professional corporate company profiles and business presentations created for engineering companies.
+
+---
+
+## 📌 Project Overview
+
+Designed and developed professional company profiles from concept to final delivery. Each profile was created to strengthen the company's brand, communicate its services and expertise, and support business development, client presentations, and international tenders.
+
 ---
 
 ## 🎯 My Responsibilities
 
-- Corporate document design
-- Visual layout
-- Typography
-- Branding
-- Table of Contents
-- Image selection
-- Content organization
-- Professional formatting
+- Designed the complete document layout and visual identity
+- Wrote and structured all content
+- Created the table of contents and document hierarchy
+- Selected and edited images
+- Designed page layouts and typography
+- Organized technical and marketing information
+- Produced print-ready and digital presentation documents
 
 ---
 
@@ -21,30 +28,34 @@ Professional company profiles and corporate presentations designed for engineeri
 - Canva
 - Figma
 
+---
+
 ## 📷 Preview
 
 ![Cover](images/profiel.png)
 
-![Services](images/bild1.png)
+![Completed Client Projec](images/bild1.png)
 
-![Projects](images/bild2a.png)
+![Engineering Vision Quote Page](images/bild2a.png)
 
 ---
 
 ## 💼 Skills Demonstrated
 
-- Graphic Design
 - Document Design
-- Business Communication
+- Graphic Design
+- Visual Communication
 - Branding
-- Technical Documentation
 - Layout Design
+- Technical Documentation
+- Content Writing
 - Content Strategy
+- Typography
 
 ---
 
 ## 👤 Author
 
-Sandra Frejd
+**Sandra Frejd**
 
 Frontend Developer Student | UI & Document Designer
